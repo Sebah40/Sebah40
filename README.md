@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://firstcommit.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sebasti%C3%A1n+Haoys;Full-Stack+Developer+%E2%80%94+Data-Oriented;Building+products+that+live+on+top+of+real+data" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sebasti%C3%A1n+Haoys;Full-Stack+Developer+%E2%80%94+Data-Oriented;Building+products+that+live+on+top+of+real+data" alt="typing header" />
 </a>
 
 <br />

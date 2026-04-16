@@ -27,7 +27,7 @@ The thread through most of my work: **ship products that live on top of real dat
 
 - **[firstcommit.io](https://firstcommit.io)** — turns AI coding sessions into shareable build stories. Parses Claude Code JSONL exports and includes an MCP server with OAuth 2.0 PKCE so you can publish straight from the terminal.
 - **ERP Intelligence Platform** — connected a legacy Firebird ERP to a modern Next.js dashboard. 20+ analytics pages for sales, purchasing, treasury and management, plus an AI chatbot with tool calling that queries the ERP in natural language.
-- **[prisma-publico](https://prisma-publico.vercel.app)** — transparency platform that cross-references Argentine public budget, state procurement and campaign donations. Ingests official datasets (CSV / XLSX) into Postgres and surfaces the flows.
+- **[prisma-publico](https://prismapublico.firstcommit.io)** — transparency platform that cross-references Argentine public budget, state procurement and campaign donations. Ingests official datasets (CSV / XLSX) into Postgres and surfaces the flows.
 - **Staatsolie reporting (via Carbeda)** — Tableau dashboards wired to third-party cloud data sources, presented to global stakeholder teams in English.
 - **Rigelec solar site** — Growatt API integration showing live solar-panel telemetry.
 

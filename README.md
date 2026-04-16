@@ -1,33 +1,35 @@
 # Hi, I'm Sebastián
 
-Full-stack developer based in Concordia, Argentina. EU (Spanish) citizen, C2 English, happy to work on U.S. time zones.
+Full-stack developer who likes working close to the data. Based in Concordia, Argentina — EU (Spanish) citizen, C2 English, happy to work on U.S. time zones.
 
-I'm currently at **Accenture** as a Business Architecture Associate, where I do SQL troubleshooting on enterprise databases, ship to Azure, and build AI-assisted workflows for cross-functional support.
+I'm currently at **Accenture** as a Business Architecture Associate, troubleshooting SQL on global enterprise databases, running incident response, and deploying AI-assisted workflows for database debugging on Azure.
 
-Outside of work I like building things end-to-end — from the database schema up to the UI — and plugging LLMs into places they actually make products better.
+The thread through most of my work: **ship products that live on top of real data**. ERPs, public-spending datasets, solar-monitoring telemetry, LLMs that query databases in natural language. I care about the pipeline end-to-end — the schema, the ingestion, the query, and the UI that makes sense of it.
 
-## What I can build
+## What I do
 
-- Responsive web apps (Next.js / React / Tailwind)
-- REST APIs and microservices (Node.js, Java / Spring Boot, Python)
-- Database-backed systems on PostgreSQL, MySQL, Supabase, or legacy stuff like Firebird
-- AI features with real depth: LLM agents, MCP servers, tool calling, RAG
-- Cloud deployments with CI/CD (Vercel, Azure)
-- Hexagonal architecture when the domain is worth the care
+- Design and query **relational databases** (PostgreSQL, MySQL, Firebird, MS SQL)
+- Build **data ingestion pipelines** from CSV, XLSX, third-party APIs and legacy systems
+- Ship **analytics dashboards** — Tableau for BI stakeholders, Chart.js / custom React for in-product
+- Connect **LLMs to databases** via tool calling, MCP, and retrieval — so users can ask questions instead of writing SQL
+- Build the **full stack around the data** — Next.js / React on top, Node.js / Java APIs in between
+- Deploy to **Vercel / Azure** with CI/CD
 
-## The stack I want to keep working with
+## Stack I'm leaning into
 
-- **TypeScript + Next.js** — where I feel most productive
-- **Supabase / Postgres** — great defaults, great DX
-- **LLM tooling** — MCP, agents, tool calling
-- **Vercel** — fast feedback loops
-- Open to **Go** or **Rust** for a backend-heavy role
+- **SQL + PostgreSQL + Supabase** — defaults I reach for
+- **TypeScript + Next.js** — where I'm most productive
+- **LLM tooling** — MCP servers, tool calling, RAG over structured data
+- **Python** — for data cleaning, scripting, anything analytical
+- Open to **Go** or **Rust** for a data-heavy backend role
 
 ## Things I've built
 
-- **[firstcommit.io](https://firstcommit.io)** — turns AI coding sessions into shareable build stories. Includes an MCP server with OAuth 2.0 PKCE for publishing from the terminal.
-- **ERP Intelligence Platform** — connected a legacy Firebird ERP to a modern Next.js dashboard with an AI chatbot that queries the DB in natural language. 20+ analytics pages for sales, purchasing, treasury and management.
-- **[prisma-publico](https://prisma-publico.vercel.app)** — a transparency platform that cross-references Argentine public spending, procurement and campaign donations.
+- **[firstcommit.io](https://firstcommit.io)** — turns AI coding sessions into shareable build stories. Parses Claude Code JSONL exports and includes an MCP server with OAuth 2.0 PKCE so you can publish straight from the terminal.
+- **ERP Intelligence Platform** — connected a legacy Firebird ERP to a modern Next.js dashboard. 20+ analytics pages for sales, purchasing, treasury and management, plus an AI chatbot with tool calling that queries the ERP in natural language.
+- **[prisma-publico](https://prisma-publico.vercel.app)** — transparency platform that cross-references Argentine public budget, state procurement and campaign donations. Ingests official datasets (CSV / XLSX) into Postgres and surfaces the flows.
+- **Staatsolie reporting (via Carbeda)** — Tableau dashboards wired to third-party cloud data sources, presented to global stakeholder teams in English.
+- **Rigelec solar site** — Growatt API integration showing live solar-panel telemetry.
 
 ## Reach me
 
